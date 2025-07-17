@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85f650d9-efa7-4d7f-b2be-5a95fe60e81b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MadLIbs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Madlibs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomMath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlotterMachineGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number_guesser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pig_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurtleRace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WPM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wpm.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PavanMeesala&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PavanMeesala/LearnPython.git&quot;,
+    &quot;accountId&quot;: &quot;50ee1d22-2636-4135-a0d8-4ffc0e310516&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,24 +48,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Madlibs.executor": "Run",
-    "Python.RandomMath.executor": "Run",
-    "Python.SlotterMachineGame.executor": "Run",
-    "Python.new.executor": "Run",
-    "Python.number_guesser.executor": "Run",
-    "Python.password_manager.executor": "Run",
-    "Python.pig_game.executor": "Run",
-    "Python.quiz_game.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Madlibs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomMath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SlotterMachineGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TurtleRace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WPM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_guesser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pig_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
